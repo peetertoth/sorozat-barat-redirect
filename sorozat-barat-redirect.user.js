@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         sorozat-barat redirect
 // @namespace    peetftp.ddns.net
-// @version      0.3
+// @version      0.4
 // @description  try to take over the world!
 // @author       kyle
 // @match        http://adf.ly/*/https://www.sorozat-barat.club/video/redirect/*
 // @match        http://queuecosm.bid/*/https://www.sorozat-barat.club/video/redirect/*
 // @match        http://threadsphere.bid/*/https://www.sorozat-barat.club/video/redirect/*
+// @match        http://threadsphere.bid/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/peetertoth/sorozat-barat-redirect/master/sorozat-barat-redirect.user.js
 // @downloadURL  https://raw.githubusercontent.com/peetertoth/sorozat-barat-redirect/master/sorozat-barat-redirect.user.js
