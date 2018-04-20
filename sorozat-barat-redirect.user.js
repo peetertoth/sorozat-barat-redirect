@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         sorozat-barat redirect
 // @namespace    peetftp.ddns.net
-// @version      0.5
+// @version      0.6
 // @description  try to take over the world!
 // @author       kyle
 // @match        http://adf.ly/*/https://www.sorozat-barat.club/video/redirect/*
