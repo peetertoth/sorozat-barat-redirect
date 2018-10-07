@@ -10,6 +10,7 @@
 // @match        http://threadsphere.bid/*
 // @match        http://restorecosm.bid/*
 // @match        http://clearload.bid/*
+// @match        http://http://activetect.net/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/peetertoth/sorozat-barat-redirect/master/sorozat-barat-redirect.user.js
 // @downloadURL  https://raw.githubusercontent.com/peetertoth/sorozat-barat-redirect/master/sorozat-barat-redirect.user.js
